@@ -1,0 +1,9 @@
+{
+	"delay": 3600,
+	"target": "https://zalando.fr/login",
+
+	"telegram": {
+		"bot-token": "Your telegram bot token here.",
+		"chat-id": "Your telegram chat id here."
+	}
+}
